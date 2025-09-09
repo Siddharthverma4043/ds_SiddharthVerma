@@ -37,11 +37,9 @@ ds_SiddharthVerma/
 ## ▶️ How to Run  
 
 1. Open the notebooks in **Google Colab** using the links below:  
-   - [Notebook 1: Data Loading, Cleaning, and Initial EDA](https://colab.research.google.com/)  
-   - [Notebook 2: Data Merging and Advanced Analysis](https://colab.research.google.com/)  
-
-   *(Replace with actual shared Colab links from your Drive)*  
-
+   - [Notebook 1: Data Loading, Cleaning, and Initial EDA](https://colab.research.google.com/drive/1HKtvGsDT4vRHtdn2Ntv77_qpbx6U9_7B?usp=sharing)  
+   - [Notebook 2: Data Merging and Advanced Analysis](https://colab.research.google.com/drive/1n_JZichnPfJ_LpRlH8cnLQqVpUWjeYS8?usp=sharing)  
+ 
 2. Ensure the required CSV files are placed in the `csv_files/` directory or uploaded to Colab when prompted.  
 3. Run the notebook cells sequentially to reproduce the **analysis and visualizations**.  
 4. Generated plots are automatically saved in the `outputs/` folder.  
